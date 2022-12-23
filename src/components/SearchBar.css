@@ -1,0 +1,17 @@
+.search-bar {
+    border: 2px solid rgb(53, 93, 107);
+    border-radius: 5px;
+    padding:8px;
+}
+
+.search-bar form {
+    display: flex;
+    flex-direction: column;
+}
+
+.text {
+    color: rgb(53, 93, 107);
+    font-size: 16px;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
